@@ -1,2 +1,2 @@
-# manipula-o_de_imagens
+# manipulando_imagens
 Aplicação de  Adobe photoshop e illustrator em imagens aleatórias
